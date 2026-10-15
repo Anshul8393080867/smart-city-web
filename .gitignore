@@ -1,0 +1,14 @@
+﻿bin/
+WebContent/WEB-INF/classes/
+*.class
+*.war
+*.log
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+.DS_Store
+cookies.txt
+c.txt
+p.txt
+r.txt
